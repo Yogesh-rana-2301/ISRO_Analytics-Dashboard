@@ -19,7 +19,7 @@ This dashboard offers a multi-faceted visual exploration of India's space journe
 - Interactive controls:
   - **Start Year** and **End Year parameters** to customize the time range.
 
-#### 3. **Percentage of GDP Allocated to Space (Line Chart)**
+#### 3. **Percentage of GDP Allocated to Department of Space (Line Chart)**
 - Shows how much of India’s GDP has been allocated to Department of Space over the decades.
 - Highlights funding trends relative to national economic growth.
 
@@ -35,7 +35,7 @@ This dashboard offers a multi-faceted visual exploration of India's space journe
   - **Decade filter** for temporal exploration
 
 #### 6. **Launch Vehicles Used (Tree Map)**
-- Highlights the distribution of launch vehicles (e.g., PSLV, GSLV, SLV).
+- Highlights the distribution of launch vehicles (e.g., PSLV, GSLV, SLV, Ariane).
 - Interactive controls:
   - **Start Year & End Year parameters**
   - **Launch vehicle filter**

@@ -73,6 +73,11 @@ This dashboard offers a multi-faceted visual exploration of India's space journe
 
 ---
 
+## 📝 License
+
+This project is licensed under the Creative Commons Zero v1.0
+Universal License - see the [LICENSE](LICENSE) file for details.
+
 ## 🛡️ Usage & Access
 
 > This project is shared for academic purposes only.  
